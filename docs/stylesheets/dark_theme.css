@@ -18,6 +18,11 @@ Main headlines
 */
 .md-main h1 {
   color: white !important;
+  font-weight: bold;
+}
+
+.md-main h4 {
+  color: orange;
 }
 
 /*

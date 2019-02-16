@@ -5,14 +5,15 @@ nav:
     - Home: 'slaughtercraft/index.md'
     - Blocks:
       - Carcasses: 'slaughtercraft/blocks/carcasses.md'
-      - Slime Skull: 'slaughtercraft/blocks/slimeskull.md'
+      - Other Blocks: 'slaughtercraft/blocks/otherblocks.md'
   - Gemsplusplus:
     - Home: 'gemsplusplus/index.md'
 
 
 site_name: Trhod177's Mods Documentation
 
-
+markdown_extensions:
+    - pymdownx.tasklist
 
 theme:
   name: 'material'
@@ -24,3 +25,4 @@ theme:
 extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
+  - stylesheets/custom.css
