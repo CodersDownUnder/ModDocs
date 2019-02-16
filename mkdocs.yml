@@ -1,0 +1,6 @@
+site_name: Slaughtercraft Documentation
+
+theme: slate
+
+extra:
+    theme_inverse: true
