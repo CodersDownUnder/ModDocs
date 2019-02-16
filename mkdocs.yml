@@ -1,6 +1,26 @@
-site_name: Slaughtercraft Documentation
 
-theme: slate
+nav:
+  - Home: 'index.md'
+  - Slaughtercraft:
+    - Home: 'slaughtercraft/index.md'
+    - Blocks:
+      - Carcasses: 'slaughtercraft/blocks/carcasses.md'
+      - Slime Skull: 'slaughtercraft/blocks/slimeskull.md'
+  - Gemsplusplus:
+    - Home: 'gemsplusplus/index.md'
 
-extra:
-    theme_inverse: true
+
+site_name: Trhod177's Mods Documentation
+
+
+
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'green'
+    accent: 'light green'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
