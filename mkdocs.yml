@@ -6,6 +6,9 @@ nav:
     - Blocks:
       - Carcasses: 'slaughtercraft/blocks/carcasses.md'
       - Other Blocks: 'slaughtercraft/blocks/otherblocks.md'
+    - Items:
+      - Butchers Knife: 'slaughtercraft/items/butchersknife.md'
+      - Animal Parts: 'slaughtercraft/items/animalparts.md'
   - Gemsplusplus:
     - Home: 'gemsplusplus/index.md'
 
@@ -13,7 +16,12 @@ nav:
 site_name: Trhod177's Mods Documentation
 
 markdown_extensions:
-    - pymdownx.tasklist
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+
 
 theme:
   name: 'material'
@@ -21,6 +29,9 @@ theme:
   palette:
     primary: 'green'
     accent: 'light green'
+  favicon: 'assets/images/favicon.ico'
+  logo: 'assets/images/logo.svg'
+
 
 extra_css:
   - stylesheets/dark_theme.css
