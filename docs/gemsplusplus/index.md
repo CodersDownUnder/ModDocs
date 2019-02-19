@@ -9,3 +9,5 @@ This section will serve to host all information related to Gemsplusplus.
 [Gemsplusplus Planet Minecraft](https://www.planetminecraft.com/mod/gems-4245877/)
 <br>
 [Gemsplusplus Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2943093-gems)
+<br>
+[Gemsplusplus Dropbox](https://www.dropbox.com/sh/iu1835ae4u9icnh/AADVfHeZqZ0ratOKBWFgvCxEa?dl=0)

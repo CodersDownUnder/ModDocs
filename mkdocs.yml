@@ -2,7 +2,7 @@
 nav:
   - Home: 'index.md'
   - Slaughtercraft:
-    - Home: 'slaughtercraft/index.md'
+    - Index: 'slaughtercraft/index.md'
     - Blocks:
       - Carcasses: 'slaughtercraft/blocks/carcasses.md'
       - Other Blocks: 'slaughtercraft/blocks/otherblocks.md'
@@ -10,7 +10,10 @@ nav:
       - Butchers Knife: 'slaughtercraft/items/butchersknife.md'
       - Animal Parts: 'slaughtercraft/items/animalparts.md'
   - Gemsplusplus:
-    - Home: 'gemsplusplus/index.md'
+    - Index: 'gemsplusplus/index.md'
+  - Reinforced Blocks Mod:
+    - Index: 'index.md'
+
 
 
 site_name: Trhod177's Mods Documentation

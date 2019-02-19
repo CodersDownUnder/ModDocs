@@ -10,3 +10,5 @@ This section will serve to host all information related to Slaughtercraft.
 [Slaughtercraft Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/2934797-slaughtercraft-mod-betav0-2-7)
 <br>
 [Slaughtercraft Github](https://github.com/CodersDownUnder/SlaughterCraft)
+<br>
+[Slaughtercraft Dropbox](https://www.dropbox.com/sh/x21rppcj3asmhq1/AADVnfSt17j5fqP5CgYokzmna?dl=0)
