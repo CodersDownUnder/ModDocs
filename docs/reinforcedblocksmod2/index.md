@@ -1,6 +1,6 @@
 # Welcome to the Reinforced Blocks Mod 2 docs.
 
-This section will serve to host all information related to Slaughtercraft.
+This section will serve to host all information related to reinforcedblocksmod.
 
 ###Downloads
 [RBM2 CurseForge](https://minecraft.curseforge.com/projects/rbm2)
