@@ -30,10 +30,17 @@ Tables
 */
 table {
   background-color: #616161 !important;
+  border-collapse: collapse;
 }
 
 tbody {
   background-color: #484848 !important;
+
+}
+
+td, th, tbody, thead {
+  border: 2px solid #302f2f;
+
 }
 
 /*

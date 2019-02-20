@@ -8,7 +8,9 @@ nav:
       - Other Blocks: 'slaughtercraft/blocks/otherblocks.md'
     - Items:
       - Butchers Knife: 'slaughtercraft/items/butchersknife.md'
-      - Animal Parts: 'slaughtercraft/items/animalparts.md'
+      - Food and Animal Parts: 'slaughtercraft/items/animalparts.md'
+    - Misc:
+      - Recipes: 'slaughtercraft/misc/recipes.md'
   - Gemsplusplus:
     - Index: 'gemsplusplus/index.md'
   - Reinforced Blocks Mod 2:
@@ -24,7 +26,8 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 theme:
   name: 'material'
