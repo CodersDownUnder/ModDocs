@@ -1,6 +1,6 @@
 #Butchers Knife (Steel, Stone, Flint)
 
-The butchers knife is a tool used for slaughtering(butchering) carcasses to meat and other drops.
+The butchers knife is a tool used for slaughtering(butchering) carcasses for meat and other drops.
 for a list of the drops [go here](../blocks/carcasses.md#drops)
 
 ##Knife Types
