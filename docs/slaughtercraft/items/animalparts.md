@@ -1,6 +1,8 @@
 #Food and Animal Parts
 
 ##Food Values
+  All hunger values are changeable in the config.
+
 
   |   Food    |  Hunger Values |
   |:---------:|:--------------:|
