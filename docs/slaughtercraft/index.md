@@ -1,5 +1,7 @@
 # Welcome to the Slaughtercraft docs.
 
+##The infomation here is for V0.3.0 Beta.
+
 This section will serve to host all information related to Slaughtercraft.
 
 ###Downloads
