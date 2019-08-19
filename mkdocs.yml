@@ -1,6 +1,17 @@
 
 nav:
   - Home: 'index.md'
+  - Gems++:
+    - Index: 'gemsplusplus/index.md'
+    - Blocks:
+      - Gem Blocks: 'gemsplusplus/blocks/gemblock.md'
+      - Gem Glass: 'gemsplusplus/blocks/glass.md'
+      - Gem Sand: 'gemsplusplus/blocks/sand.md'
+      - Gem Ore: 'gemsplusplus/blocks/ores.md'
+    - Items:
+      - Gem Armour: 'gemsplusplus/items/armour.md'
+      - Gems: 'gemsplusplus/items/gems.md'
+      - Tools: 'gemsplusplus/items/tools.md'
   - Slaughtercraft:
     - Index: 'slaughtercraft/index.md'
     - Blocks:
@@ -11,36 +22,10 @@ nav:
       - Food and Animal Parts: 'slaughtercraft/items/animalparts.md'
     - Misc:
       - Recipes: 'slaughtercraft/misc/recipes.md'
-  - Gemsplusplus:
-    - Index: 'gemsplusplus/index.md'
-    - Blocks:
-      - Gem Blocks: 'gemsplusplus/blocks/gemblock.md'
-      - Gem Glass: 'gemsplusplus/blocks/glass.md'
-      - Gem Sand: 'gemsplusplus/blocks/sand.md'
-      - Gem Ore: 'gemsplusplus/blocks/ores.md'
-    - Armour:
-      - Agate Armour: 'gemsplusplus/armour/agatearmour.md'
-      - Amethyst Armour: 'gemsplusplus/armour/amethystarmour.md'
-      - Citrine Armour: 'gemsplusplus/armour/citrinearmour.md'
-      - Chrysocolla Armour: 'gemsplusplus/armour/chrysocollaarmour.md'
-      - Garnet Armour: 'gemsplusplus/armour/garnetarmour.md'
-      - Jade Armour: 'gemsplusplus/armour/jadearmour.md'
-      - Jasper Armour: 'gemsplusplus/armour/jasperarmour.md'
-      - Malachite Armour: 'gemsplusplus/armour/malachitearmour.md'
-      - Onyx Armour: 'gemsplusplus/armour/onyxarmour.md'
-      - Phoenixite Armour: 'gemsplusplus/armour/phoenixitearmour.md'
-      - Ruby Armour: 'gemsplusplus/armour/rubyarmour.md'
-      - Sapphire Armour: 'gemsplusplus/armour/sapphirearmour.md'
-      - Spinel Armour: 'gemsplusplus/armour/spinelarmour.md'
-      - Sugilite Armour: 'gemsplusplus/armour/sugilitearmour.md'
-      - Topaz Armour: 'gemsplusplus/armour/topazarmour.md'
-      - Tourmaline Armour: 'gemsplusplus/armour/tourmalinearmour.md'
-  - Reinforced Blocks Mod 2:
-    - Index: 'reinforcedblocksmod2/index.md'
+  
 
-
-
-site_name: Trhod177's Mods Documentation
+      
+site_name: Trhod177's Mods Documentation !!(Under Construction)!!
 
 markdown_extensions:
   - admonition

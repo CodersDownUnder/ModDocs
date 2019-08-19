@@ -1,27 +1,28 @@
-#Carcasses
+# Carcasses
 
 This page will serve to host all information related to carcasses in slaughtercraft.
 
-##Carcasses In Mod
+## Carcasses In Mod
 
- * Cow Carcass
- * Chicken Carcass
- * Creeper Carcass
- * Pig Carcasses
- * Sheep Carcass
- * Slime Carcass
- * Horse Carcass (Model is a work in progress)
- * Donkey Carcass (Model is a work in progress)
- * Mule Carcass (Model is a work in progress)
- * Llama Carcass (Model is a work in progress)
- * Squid Carcass
- * Villager Carcass
- * Evoker Carcass
- * Vindicator Carcass
+* Cow Carcass
+* Chicken Carcass
+* Creeper Carcass
+* Pig Carcasses
+* Sheep Carcass
+* Slime Carcass
+* Horse Carcass (Model is a work in progress)
+* Donkey Carcass (Model is a work in progress)
+* Mule Carcass (Model is a work in progress)
+* Llama Carcass (Model is a work in progress)
+* Squid Carcass
+* Villager Carcass
+* Evoker Carcass
+* Vindicator Carcass
 
-##Drops
+## Drops
 
-###Non Chance Based Drops
+### Non Chance Based Drops
+
 |  |Butchers Knife (Steel)|Butchers Knife (Flint)|Butchers Knife (Stone)|
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | Chicken Carcass | Chicken Breast X 3  Chicken Leg x 2,  -Chicken Wing x 2,  -Chicken Neck x 1,  (If Add Default Drops is true)  Chicken x 1  | Chicken Breast X 2,  Chicken Leg x 1,  Chicken Wing x 1,  Chicken Neck x 1,  (If Add Default Drops is true)  Chicken x 1   | Chicken Breast X 1,  Chicken Leg x 1,  (If Add Default Drops is true)  Chicken x 1 |
@@ -37,9 +38,8 @@ This page will serve to host all information related to carcasses in slaughtercr
 | Slime Carcass | Slime Ball x 0 to 2, Slime Skull x 1 | Slime Ball x 0 to 1, Slime Skull x 1 | Slime Ball x 1|
 | Squid Carcass | Ink Sac x 1 to 4, Raw Calamari x 1 to 7| Ink Sac x 1 to 4, Raw Calamari x 1 to 4 | Raw Calamari x  2|
 
-
-
 ### Chance Based Drops (Refer to vanilla drop rates for most of them)
+
 |  | Butchers Knife (Steel) | Butchers Knife (Flint) | Butchers Knife (Stone) |
 |:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
 | Villager Carcass | Emerald, Carrot, Apple | Carrot, Apple | Apple |

@@ -28,6 +28,10 @@ Main headlines
 /*
 Tables
 */
+tbody tr:nth-child(even) {
+  background-color: #2d2d2d;
+}
+
 table {
   background-color: #616161 !important;
   border-collapse: collapse;
@@ -38,9 +42,13 @@ tbody {
 
 }
 
-td, th, tbody, thead {
+td, tbody, thead, th {
   border: 2px solid #302f2f;
 
+}
+
+th, thead {
+  background-color: #cd32cd;
 }
 
 /*
